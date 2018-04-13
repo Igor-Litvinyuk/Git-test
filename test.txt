@@ -1,7 +1,4 @@
 git 1
 git 2
-<<<<<<< HEAD
 hello new branch
-=======
 Hello master branch
->>>>>>> master
